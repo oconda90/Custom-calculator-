@@ -8,3 +8,6 @@ I could add more to it but i lack experince
 
 using print and input 
 and some basic varibles with operations i was able to make it work
+
+here is link to video of explaination
+https://youtu.be/Ht67QpMUB90
